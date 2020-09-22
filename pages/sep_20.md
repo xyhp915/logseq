@@ -2,5 +2,5 @@
 title: clojurian
 ---
 
-## #Resources
-###
+## 🐼 Shadow cljs
+### https://github.com/thheller/shadow-cljs
