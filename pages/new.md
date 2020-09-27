@@ -1,13 +1,8 @@
 ---
-title: Sep 17th, 2020
-published: true
-permalink: sep%2017th%2C%202020
+title: new
 ---
 
 ## React UI [[https://primer.style/components/Buttons][https://primer.style/components/Buttons]]
-:PROPERTIES:
-:template: a-codebase
-:END:
 > ## 看起来还是很棒的啊。
 ### 我觉得这样是可以的啊。
 ### 但是你要是这样解决的话，那就这样办吧。
@@ -32,4 +27,3 @@ permalink: sep%2017th%2C%202020
 (def g-my-btn (helpers/react->rum js/window.MyBtn))
 (def BButton (helpers/react->rum pc/ButtonPrimary))
 ```
-##
