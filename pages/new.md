@@ -43,4 +43,8 @@ title: new
 :END:
 
 awesome
+
+```js
+document.getElementById('code')
+```
 ### seeg
