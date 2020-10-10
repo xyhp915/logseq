@@ -31,20 +31,3 @@ title: new
 (def g-my-btn (helpers/react->rum js/window.MyBtn))
 (def BButton (helpers/react->rum pc/ButtonPrimary))
 ```
-## jjj
-### see
-### sdes
-#### sdfs
-##### sdfes
-#####
-#### se
-:PROPERTIES:
-:background_color: rgb(83, 62, 125)
-:END:
-
-awesome
-
-```js
-document.getElementById('code')
-```
-### seeg
