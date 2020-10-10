@@ -34,21 +34,7 @@ title: new
 (def)
 ```
 
-(defstyled text-field :textarea
-           {:width         :width
-            :height        :height
-            :padding       "10px"
-            :border-radius "5px"
-            :border        "1px solid #ccc"
-            :&:hover       {:background-color "#eee"}
-            :&:focus       {:outline "none"
-                            :border  "1px solid blue"}})
-
-(defn btn-with-type [type]
-  (keyword (str "button.weui_btn.weui_btn_" type)))
-
-(def weui-btn-primary (btn-with-type "primary"))
-(def weui-btn-danger (btn-with-type "warn"))
-
-(def g-my-btn (helpers/react->rum js/window.MyBtn))
-(def BButton (helpers/react->rum pc/ButtonPrimary))
+```js
+code
+```
+###
