@@ -17,7 +17,7 @@ title: clojurian
 [[Oct 9th, 2020]] 我也觉得这不是什么事情 .
 
 ```shell
-kill -9
+kill -9 hello
 ```
 ####
 ## 🐸 *handy-cheatsheet*
