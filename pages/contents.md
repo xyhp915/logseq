@@ -2,6 +2,7 @@
 published: true
 permalink: contents
 public: true
+slide: true
 ---
 
 {{{embed [[clojurian]] }}}
