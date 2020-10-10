@@ -1,6 +1,7 @@
 ---
 published: true
 permalink: contents
+public: true
 ---
 
 {{{embed [[clojurian]] }}}
