@@ -1,5 +1,8 @@
 ---
 title: new
+published: true
+slide: true
+permalink: new
 ---
 
 ## React UI [[https://primer.style/components/Buttons][https://primer.style/components/Buttons]]
@@ -37,4 +40,3 @@ title: new
 ```js
 code
 ```
-
