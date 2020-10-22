@@ -10,3 +10,5 @@ title: logseq-self-issues
 ### moduler codebase
 ## Bugs
 ### syncing ?
+## Features
+### theme store ?
