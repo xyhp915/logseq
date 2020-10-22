@@ -7,7 +7,7 @@ title: logseq-self-issues
 ### shortcut for moving menu item next (`ctrl + N`)
 ### when block `rich display content` -> `editable text content`, still keeping cursor position in viewport based on scroll position .
 ## Improvement
-### moduler codebase
+### modularized codebase ?
 ## Bugs
 ### syncing ?
 ## Features
