@@ -2,15 +2,30 @@
 title: logseq-self-issues
 ---
 
-## UI/UX Experience
+## 🎨  UI/UX Experience
 ### global search shortcut tips and add `double-shift` map (current is `cmd+u`)
 ### shortcut for moving menu item next (`ctrl + N`)
-### when block `rich display content` -> `editable text content`, still keeping cursor position in viewport based on original scroll position .
-### `-webkit-font-smoothing: antialiased` make font comfortable !
-## Improvements
+### DONE when block `rich display content` -> `editable text content`, still keeping cursor position in viewport based on original scroll position .
+:PROPERTIES:
+:done: 1604744422177
+:END:
+### DONE `-webkit-font-smoothing: antialiased` make font comfortable !
+:PROPERTIES:
+:done: 1604744573072
+:END:
+### TODO make Sidebar draggable
+:PROPERTIES:
+:todo: 1604744563406
+:END:
+### TODO empty `white spaces` block as placeholder ?
+:PROPERTIES:
+:todo: 1604744643315
+:END:
+##
+## 🚀  Improvements
 ### modularized codebase ?
-## Bugs
+## 🐞 Bugs
 ### syncing ?
-## Features
+## 🦄 Features
 ### theme store ?
 ##

@@ -1,4 +1,3 @@
-@import "https://fonts.googleapis.com/css2?family=Handlee&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500&display=swap";
 
@@ -25,7 +24,7 @@
   --ls-tag-text-hover-opacity: 0.8;
   --ls-page-text-size: 1em;
   --ls-page-title-size: 36px;
-  --ls-font-family: 'Noto Serif SC', 'Noto Serif SC', cursive, "FiraCode Nerd Font", "Fira Code", "Inter";
+  --ls-font-family: 'Noto Serif SC', 'Noto Serif SC', "FiraCode Nerd Font", "Fira Code", "Inter";
 }
 
 .dark-theme {
