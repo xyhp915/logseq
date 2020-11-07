@@ -1,11 +1,10 @@
----
-title: programming-thought
-published: true
-permalink: programming-thought
----
-
-## 🎨
-### 抽象 Abstract
-### 归纳 Conclude
-### 分解 Decompose
+null
 ### 聚合 Aggregation
+###
+### 聚合 Aggregation
+###
+##
+## 🦄
+##
+###
+### 看起来还是不错的嘛
