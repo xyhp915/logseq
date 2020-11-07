@@ -21,6 +21,7 @@ title: logseq-self-issues
 :PROPERTIES:
 :todo: 1604744643315
 :END:
+### on multiple lines mode , `Enter` do not create new block
 ##
 ## 🚀  Improvements
 ### modularized codebase ?
@@ -28,4 +29,9 @@ title: logseq-self-issues
 ### syncing ?
 ## 🦄 Features
 ### theme store ?
-##
+## break line test
+multiple line mode :)
+
+- test A
+- test B
+- test C
