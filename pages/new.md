@@ -9,10 +9,6 @@ permalink: new
 > ## 看起来还是很棒的啊。
 ### 我觉得这样是可以的啊。
 ### 但是你要是这样解决的话，那就这样办吧。
-#### ssd
-##### dfs
-#### sdfs
-#### ssss
 ### 看起开还是可以的啊。
 ```clojure
 (defstyled text-field :textarea
@@ -35,8 +31,4 @@ permalink: new
 (def BButton (helpers/react->rum pc/ButtonPrimary))
 
 (def)
-```
-
-```js
-code
 ```

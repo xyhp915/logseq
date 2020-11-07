@@ -3,5 +3,5 @@
 ## Logseq
 ### [[logseq-self-issues]]
 ## Blogs
-### [[awesome articles]]
+### [[Awesome articles]]
 ### [[Chinese poems]]
