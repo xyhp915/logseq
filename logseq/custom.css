@@ -87,6 +87,22 @@ table {
   border-radius: 4px;
   overflow: hidden;
 }
+.svg-shadow {
+  box-shadow: none;
+  filter: none;
+}
+
+#main-content {
+  flex-direction: row-reverse;
+}
+
+#search_field {
+  background: transparent;
+}
+
+.right-sidebar {
+  flex: 1 0 35%;
+}
 
 .marker-switch {
   line-height: 1em;
