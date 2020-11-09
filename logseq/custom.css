@@ -96,6 +96,18 @@ table {
   flex-direction: row-reverse;
 }
 
+#head {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.dark-theme #head {
+  border-bottom-color: #0c090b;
+}
+
+#search {
+  justify-content: center;
+}
+
 #search_field {
   background: transparent;
 }
@@ -110,7 +122,11 @@ table {
 }
 
 .cp__sidebar-main-content {
-  padding-top: 0;
+  padding-top: 30px;
+}
+
+.rounded-md, .rounded-lg, .form-input {
+  border-radius: .14rem;
 }
 
 .dark-theme {

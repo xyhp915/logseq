@@ -1,5 +1,7 @@
 ---
 title: The Eccentric Ways of iOS Safari with the Keyboard
+published: true
+permalink: the%20eccentric%20ways%20of%20ios%20safari%20with%20the%20keyboard
 ---
 
 ## Why this is challenging
