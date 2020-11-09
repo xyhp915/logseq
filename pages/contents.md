@@ -1,8 +1,11 @@
 ## Programming
-### [[programming-thought]]
+### [[Programming-thoughts]]
 ## Logseq
-### [[logseq-self-issues]]
+### [[Logseq issues]]
 ## Blogs
 ### [[Awesome articles]]
+{{{embed [[Awesome articles]] }}}
 ### [[Chinese poems]]
-##
+{{{embed [[Chinese poems]] }}}
+## Books
+###

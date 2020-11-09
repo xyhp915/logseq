@@ -122,6 +122,10 @@ table {
   border-bottom-color: #0c090b;
 }
 
+.dark-theme #sidebar-nav-wrapper {
+  border-right: none !important;
+}
+
 #search {
   justify-content: center;
 }
