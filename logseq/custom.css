@@ -154,7 +154,7 @@ table {
 }
 
 .cp__sidebar-main-content {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .rounded-md, .rounded-lg, .form-input {
@@ -173,6 +173,16 @@ table {
 
 .dark-theme #right-sidebar .sidebar-item {
   border-top-color: #434d6b;
+}
+
+#right-sidebar .sidebar-item .close {
+  transform: scale(.6);
+  opacity: 0.3;
+}
+
+#right-sidebar .sidebar-item .close:hover {
+  transform: scale(.8);
+  opacity: 1;
 }
 
 .dark-theme i {
