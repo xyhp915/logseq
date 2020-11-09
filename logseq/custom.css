@@ -79,6 +79,14 @@
   background-color: var(--ls-secondary-background-color);
 }
 
+.dark-theme .ls-block {
+  padding: .1rem;
+}
+
+.dark-theme .ls-block.block-highlight {
+  background-color: #2a405a;
+}
+
 html {
   font-weight: lighter;
 }
