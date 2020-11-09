@@ -114,8 +114,6 @@ The complete code for this is ready at http://jsfiddle.net/staltz/8jFJH/48/ in c
 On startup we need to do only one request, so if we model it as a data stream, it will be a stream with only one emitted value. Later, we know we will have many requests happening, but for now, it is just one.
 
 ```
---a------|->
-
 Where a is the string 'https://api.github.com/users'
 ```
 
@@ -157,12 +155,6 @@ requestStream.subscribe(function(requestUrl) {
 ```
 
 What [`Rx.Observable.create()`](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/observable.md#rxobservablecreatesubscribe) does is create your own custom stream by explicitly informing each observer (or in other words, a "subscriber") about data events (`onNext()`) or errors (`onError()`). What we did was just wrap that jQuery Ajax Promise. **Excuse me, does this mean that a Promise is an Observable?**
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ![Amazed](http://www.myfacewhen.net/uploads/3324-amazed-face.gif)
 
@@ -229,7 +221,6 @@ responseStream.subscribe(function(response) {
   // render `response` to the DOM however you wish
 });
 ```
-
 ## The refresh button
 
 I did not yet mention that the JSON in the response is a list with 100 users. The API only allows us to specify the page offset, and not the page size, so we're using just 3 data objects and wasting 97 others. We can ignore that problem for now, since later on we will see how to cache the responses.
