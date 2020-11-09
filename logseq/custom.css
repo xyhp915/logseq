@@ -95,17 +95,27 @@ table {
   border-radius: 4px;
   overflow: hidden;
 }
-.svg-shadow {
+
+.white-theme svg.svg-shadow[fill="#002B36"] {
   box-shadow: none;
   filter: none;
+  fill: white;
+}
+
+#head {
+  font-family: monospace;
+}
+
+.dropdown-wrapper {
+  min-width: 15rem;
 }
 
 #main-content {
   flex-direction: row-reverse;
 }
 
-#head {
-  border-bottom: 1px solid #e6e6e6;
+.white-theme #head {
+  background-color: #222;
 }
 
 .dark-theme #head {
@@ -118,10 +128,24 @@ table {
 
 #search_field {
   background: transparent;
+  color: white;
 }
 
-.right-sidebar {
+#ac-inner > a {
+  padding: 4px 12px !important;
+}
+
+#repo-switch {
+  color: #aaa !important;
+}
+
+#right-sidebar {
   flex: 1 0 35%;
+  background-color: #efefef;
+}
+
+.dark-theme #right-sidebar {
+  background-color: var(--ls-right-sidebar-code-bg-color);
 }
 
 .marker-switch {
@@ -145,6 +169,10 @@ table {
       Original dracula color scheme by Zeno Rocha (https://github.com/zenorocha/dracula-theme)
       Adapted to logseq
   */
+}
+
+.dark-theme #right-sidebar .sidebar-item {
+  border-top-color: #434d6b;
 }
 
 .dark-theme i {
