@@ -7,7 +7,7 @@ title: bugs
 ### is this a big deal :)
 #### a big deal
 ##### good
-#### i can't give a solution .
+#### i can't give a solution . [[cooking]] [[logseq]]
 #### let's show some code
 #####
 ```css
