@@ -3,7 +3,7 @@ title: bugs
 ---
 
 ## her
-## #test-performance
+## #logseq #test-performance
 ### here is a test
 ## here is a test
 ### sdfad
