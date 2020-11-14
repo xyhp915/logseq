@@ -3,6 +3,9 @@ title: logseq-self-issues
 ---
 
 ## 🎨  UI/UX Experience
+:PROPERTIES:
+:heading: true
+:END:
 ### TODO global search shortcut tips and add `double-shift` map (current is `cmd+u`)
 :PROPERTIES:
 :todo: 1605325031780
@@ -36,9 +39,25 @@ title: logseq-self-issues
 :todo: 1605325072634
 :END:
 ## 🚀  Improvements
-### modularized codebase ?
+:PROPERTIES:
+:heading: true
+:END:
+### [#B] modularized codebase ?
+#### test a head
+:PROPERTIES:
+:heading: true
+:END:
 ## 🐞 Bugs
-### syncing ? #bugs
-### test batch update performance ?
+:PROPERTIES:
+:heading: true
+:END:
+### [#B] syncing ? #bugs
+### [#C] test batch update performance ?
 ## 🦄 Features
-### theme store ?
+:PROPERTIES:
+:heading: true
+:END:
+### TODO theme store ?
+:PROPERTIES:
+:todo: 1605326064948
+:END:

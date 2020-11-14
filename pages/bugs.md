@@ -4,6 +4,7 @@ title: bugs
 
 ## #logseq #test-performance
 ### here is a test
+#### 这个不要太厉害了.
 ### is this a big deal :)
 #### a big deal
 ##### good
@@ -23,10 +24,6 @@ b { color: blue; }
 :PROPERTIES:
 :todo: 1605324296031
 :done: 1605324314593
-:END:
-##### TODO [[Nov 14th, 2020]] cooking a 12:00 am
-:PROPERTIES:
-:todo: 1605324309615
 :END:
 #####
 ## here is a test
