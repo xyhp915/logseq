@@ -27,6 +27,7 @@ title: logseq-self-issues
 ### modularized codebase ?
 ## 🐞 Bugs
 ### syncing ? #bugs
+### test batch update performance ?
 ## 🦄 Features
 ### theme store ?
 ## break line test
