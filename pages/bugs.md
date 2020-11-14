@@ -2,9 +2,31 @@
 title: bugs
 ---
 
-## her
 ## #logseq #test-performance
 ### here is a test
+### is this a big deal :)
+#### i can't give a solution .
+#### let's show some code
+#####
+```css
+a { color: red; }
+b { color: blue; }
+```
+##### can you do it better :)
+##### TODO this is a big deal
+:PROPERTIES:
+:todo: 1605324284088
+:END:
+##### DONE watch books
+:PROPERTIES:
+:todo: 1605324296031
+:done: 1605324314593
+:END:
+##### TODO [[Nov 14th, 2020]] cooking a 12:00 am
+:PROPERTIES:
+:todo: 1605324309615
+:END:
+#####
 ## here is a test
 ### sdfad
 #### sdkjfa
@@ -29,7 +51,6 @@ dfad
 ##### 你难道
 #### this is awesome
 ##### cat it
-
 ## here is a test
 ### sdfad
 #### sdkjfa
