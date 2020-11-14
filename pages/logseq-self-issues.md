@@ -3,8 +3,14 @@ title: logseq-self-issues
 ---
 
 ## 🎨  UI/UX Experience
-### global search shortcut tips and add `double-shift` map (current is `cmd+u`)
-### shortcut for moving menu item next (`ctrl + N`)
+### TODO global search shortcut tips and add `double-shift` map (current is `cmd+u`)
+:PROPERTIES:
+:todo: 1605325031780
+:END:
+### TODO shortcut for moving menu item next (`ctrl + N`)
+:PROPERTIES:
+:todo: 1605325024108
+:END:
 ### DONE when block `rich display content` -> `editable text content`, still keeping cursor position in viewport based on original scroll position .
 :PROPERTIES:
 :done: 1604744422177
@@ -21,8 +27,14 @@ title: logseq-self-issues
 :PROPERTIES:
 :todo: 1604744643315
 :END:
-### on multiple lines mode , `Enter` do not create new block
-##
+### TODO on multiple lines mode , `Enter` do not create new block
+:PROPERTIES:
+:todo: 1605325016548
+:END:
+### TODO add `h1 ~ h6` & `/color` command
+:PROPERTIES:
+:todo: 1605325072634
+:END:
 ## 🚀  Improvements
 ### modularized codebase ?
 ## 🐞 Bugs
@@ -30,9 +42,3 @@ title: logseq-self-issues
 ### test batch update performance ?
 ## 🦄 Features
 ### theme store ?
-## break line test
-multiple line mode :)
-
-- test A
-- test B
-- test C

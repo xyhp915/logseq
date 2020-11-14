@@ -223,7 +223,6 @@ dfad
 
 #### here is a wonderful thing here
 #### [[Sep 11th, 2020]]
-#### {{{embed [[logseq-self-issues]] }}}
 #### can you
 ## test is here
 ### hello world :)
