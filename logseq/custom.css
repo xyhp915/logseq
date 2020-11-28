@@ -118,6 +118,10 @@ table {
   background-color: #222;
 }
 
+.white-theme #head a {
+  color: #ccc;  
+}
+
 .dark-theme #head {
   border-bottom-color: #0c090b;
 }
@@ -135,7 +139,7 @@ table {
   color: white;
 }
 
-#ac-inner > a {
+#ui__ac-inner > a {
   padding: 4px 12px !important;
 }
 
