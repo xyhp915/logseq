@@ -6,9 +6,11 @@ title: logseq-self-issues
 :PROPERTIES:
 :heading: true
 :END:
-### TODO global search shortcut tips and add `double-shift` map (current is `cmd+u`)
+### LATER global search shortcut tips and add `double-shift` map (current is `cmd+u`)
 :PROPERTIES:
 :todo: 1605325031780
+:done: 1606919937338
+:later: 1606919938054
 :END:
 ### TODO shortcut for moving menu item next (`ctrl + N`)
 :PROPERTIES:
@@ -22,9 +24,11 @@ title: logseq-self-issues
 :PROPERTIES:
 :done: 1604744573072
 :END:
-### TODO make Sidebar draggable
+### LATER make Sidebar draggable
 :PROPERTIES:
 :todo: 1604744563406
+:done: 1606919940013
+:later: 1606919940728
 :END:
 ### TODO empty `white spaces` block as placeholder ?
 :PROPERTIES:

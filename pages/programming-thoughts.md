@@ -4,9 +4,11 @@ title: Programming-thoughts
 
 ## hello world :)
 ## 看起来很不错啊
-### TODO yet todo list
+### LATER yet todo list
 :PROPERTIES:
 :todo: 1606831415703
+:done: 1606920733475
+:later: 1606920734468
 :END:
 ### LATER yet a second :)
 :PROPERTIES:
