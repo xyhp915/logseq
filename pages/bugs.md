@@ -3,8 +3,8 @@ title: bugs
 ---
 
 ## #logseq #test-performance
-### here is a test
-#### 这个不要太厉害了.
+## here is a test
+### 这个不要太厉害了.
 ### is this a big deal :)
 #### a big deal
 ##### good

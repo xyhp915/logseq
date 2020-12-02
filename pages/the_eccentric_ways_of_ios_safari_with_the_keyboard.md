@@ -1,9 +1,8 @@
 ---
 title: The Eccentric Ways of iOS Safari with the Keyboard
 published: true
-permalink: the%20eccentric%20ways%20of%20ios%20safari%20with%20the%20keyboard
+old_permalink: the%20eccentric%20ways%20of%20ios%20safari%20with%20the%20keyboard
 ---
-
 ## Why this is challenging
 ### The amount of the page pushed offscreen varies
 ### You can’t tell that you’re in this semi-offscreen state
