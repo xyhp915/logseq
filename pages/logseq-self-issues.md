@@ -6,19 +6,22 @@ title: logseq-self-issues
 :PROPERTIES:
 :heading: true
 :END:
-### LATER global search shortcut tips and add `double-shift` map (current is `cmd+u`)
+### DONE global search shortcut tips and add `double-shift` map (current is `cmd+u`)
 :PROPERTIES:
 :todo: 1605325031780
-:done: 1606919937338
+:done: 1606968038262
 :later: 1606919938054
 :END:
-### TODO shortcut for moving menu item next (`ctrl + N`)
+### DONE shortcut for moving menu item next (`ctrl + N`)
 :PROPERTIES:
 :todo: 1605325024108
+:done: 1606976579346
+:later: 1606968035724
 :END:
-### DONE when block `rich display content` -> `editable text content`, still keeping cursor position in viewport based on original scroll position .
+### DONE when block `rich display content` -> `editable text content`, still keeping cursor position in viewport based on original scroll position.
 :PROPERTIES:
-:done: 1604744422177
+:done: 1606976577675
+:later: 1606964948492
 :END:
 ### DONE `-webkit-font-smoothing: antialiased` make font comfortable !
 :PROPERTIES:
@@ -27,8 +30,8 @@ title: logseq-self-issues
 ### LATER make Sidebar draggable
 :PROPERTIES:
 :todo: 1604744563406
-:done: 1606919940013
-:later: 1606919940728
+:done: 1606968030776
+:later: 1606968031464
 :END:
 ### TODO empty `white spaces` block as placeholder ?
 :PROPERTIES:
@@ -42,6 +45,9 @@ title: logseq-self-issues
 :PROPERTIES:
 :todo: 1605325072634
 :END:
+#### {{{embed [[Dec 2nd, 2020]] }}}
+##### [[Dec 11th, 2020]]
+##### I can not breath it now :)
 ## 🚀  Improvements
 :PROPERTIES:
 :heading: true

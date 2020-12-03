@@ -3,6 +3,9 @@ title: mathematics
 ---
 
 #### [[Introduction to Linear Algebra, Fourth Edition]]
+:PROPERTIES:
+:heading: true
+:END:
 
 作者: Gilbert Strang
 出版社: Wellesley Cambridge Press
@@ -13,6 +16,9 @@ title: mathematics
 ISBN: 9780980232714
 -----
 #### [[What Is Mathematics?]]
+:PROPERTIES:
+:heading: true
+:END:
 
 作者: Richard Courant / Herbert Robbins
 出版社: Oxford University Press

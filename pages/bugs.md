@@ -4,28 +4,44 @@ title: bugs
 
 ## #logseq #test-performance
 ## here is a test
+:PROPERTIES:
+:heading: true
+:END:
 ### 这个不要太厉害了.
 ### is this a big deal :)
 #### a big deal
 ##### good
 #### i can't give a solution . [[cooking]] [[logseq]]
-#### let's show some code
-#####
+:PROPERTIES:
+:heading: true
+:END:
+##### let's show some code
+######
 ```css
 a { color: red; }
 b { color: blue; }
 ```
-##### can you do it better :)
-##### TODO this is a big deal
+###### can you do it better :)
+:PROPERTIES:
+:heading: true
+:END:
+####### TODO this is a big deal
 :PROPERTIES:
 :todo: 1605324284088
 :END:
-##### DONE watch books
+####### DONE watch books
 :PROPERTIES:
 :todo: 1605324296031
 :done: 1605324314593
 :END:
-#####
+###### 我就是这么觉得啊
+####### 看起来还是不错的啊。我觉得这样是可以的吧。
+######## 好吧。
+######## LATER 这是一个要解决的问题。啊
+:PROPERTIES:
+:later: 1606966774434
+:END:
+#######
 ## here is a test
 ### sdfad
 #### sdkjfa

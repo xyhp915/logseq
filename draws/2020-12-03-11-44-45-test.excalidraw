@@ -1,0 +1,59 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "elements": [
+    {
+      "id": "0W0j-P5CsCBkcqmOxMJcV",
+      "type": "rectangle",
+      "x": 488.58203125,
+      "y": 209.5,
+      "width": 535.61328125,
+      "height": 308.69921875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1087348734,
+      "version": 12,
+      "versionNonce": 2078431650,
+      "isDeleted": false
+    },
+    {
+      "id": "DjJ39W653KwUGgyPMnhQ5",
+      "type": "text",
+      "x": 553.6484375,
+      "y": 343.81640625,
+      "width": 390.8296875000002,
+      "height": 32.460937500000014,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1131074914,
+      "version": 124,
+      "versionNonce": 366458174,
+      "isDeleted": false,
+      "text": "Test a powerful draw board :)",
+      "fontSize": 25.709062499999998,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 23
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}

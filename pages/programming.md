@@ -23,4 +23,13 @@ ISBN: 9780262011532
 装帧: 精装
 ISBN: 9780262062183
 -------
-##
+## [[Programming Language Pragmatics, Third Edition]]
+
+作者: [[Michael L. Scott]]
+出版社: Morgan Kaufmann
+出版年: 2009-4-6
+页数: 944
+定价: USD 77.95
+装帧: Paperback
+ISBN: 9780123745149
+------
