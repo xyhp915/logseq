@@ -6,6 +6,7 @@ title: bugs
 ## here is a test
 :PROPERTIES:
 :heading: true
+:background_color: rgb(73, 125, 70)
 :END:
 ### 这个不要太厉害了.
 ### is this a big deal :)
@@ -41,7 +42,15 @@ b { color: blue; }
 :PROPERTIES:
 :later: 1606966774434
 :END:
-#######
+####### {{{embed ((5fd2fdb4-7ec4-4a34-b178-e417f46aca2b)) }}}
+####### {{{embed ((5fd2fdb4-b09f-4d8a-87b3-f6e53b215e48)) }}}
+####### 数据
+##### 其实这个还是比较厉害的吧。
+##### 你觉得呢？
+##### 我想这样的东西一定是简单的啊。
+##### [[charlie]]
+###### 感觉这个不要太厉害了
+###### 我想你是对的啊
 ## here is a test
 ### sdfad
 #### sdkjfa
@@ -158,7 +167,9 @@ dfad
 ##### dkfasd
 #### can you do 就
 #### 我不觉得这样是可以的啊。
-##### 你难道
+##### 这个事情我觉得还是可以接受的吧
+###### 好人一生平安 [[Dec 12th, 2020]]
+####### 这个简直不要太棒了吧
 #### this is awesome
 ##### cat it
 
@@ -232,7 +243,7 @@ dfad
 ##### dkfasd
 #### can you do 就
 #### 我不觉得这样是可以的啊。
-##### 你难道
+##### 牛人
 #### this is awesome
 ##### cat it
 
@@ -665,4 +676,9 @@ dfad
 :END:
 ### what a pretty drink :)
 #### skdfal
+#### 这个很厉害了吧。
+##### 我觉得也是吧。
+###### 如果你想这个样子的
+##### kanyang
+#####
 ## jjs

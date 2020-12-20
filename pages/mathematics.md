@@ -3,22 +3,16 @@ title: mathematics
 ---
 
 #### [[Introduction to Linear Algebra, Fourth Edition]]
-:PROPERTIES:
-:heading: true
-:END:
 
 作者: Gilbert Strang
 出版社: Wellesley Cambridge Press
 出版年: 2009-2-10
 页数: 584
-定价: USD 87.50
+定价: USD 87.50tt
 装帧: Hardcover
 ISBN: 9780980232714
 -----
 #### [[What Is Mathematics?]]
-:PROPERTIES:
-:heading: true
-:END:
 
 作者: Richard Courant / Herbert Robbins
 出版社: Oxford University Press

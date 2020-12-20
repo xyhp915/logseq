@@ -1,4 +1,15 @@
+## jess
+yet a man
+## that is awesome
+### do it better ?
+###
 ---
+permalink: the%20eccentric%20ways%20of%20ios%20safari%20with%20the%20keyboard
+---
+
+shed: true
+---
+
 title: The Eccentric Ways of iOS Safari with the Keyboard
 published: true
 old_permalink: the%20eccentric%20ways%20of%20ios%20safari%20with%20the%20keyboard
